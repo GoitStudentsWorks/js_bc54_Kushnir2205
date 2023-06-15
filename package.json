@@ -2,10 +2,10 @@
   "name": "parcel-project-template",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://Kushnir2205.github.io/Make-IT-work",
+  "homepage": "https://GoitStudentsWorks.github.io/js_bc54_Kushnir2205",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /Make-IT-work/"
+    "build": "parcel build src/*.html --public-url /js_bc54_Kushnir2205/"
   },
   "repository": {
     "type": "git",
